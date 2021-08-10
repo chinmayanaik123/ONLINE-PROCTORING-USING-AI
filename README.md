@@ -1,5 +1,5 @@
 
-##ONLINE PROCTORING USING AI
+# ONLINE PROCTORING USING AI
 
 An online proctoring system capable of detecting malicious activities or malpractice during online examination. Proctoring involves detecting  examinee action using the help of a webcam and in-built microphone. Since the academic practices are moving towards digital media, this system removes the need of any human proctor. Candidate eye tracking, lip movement analysis, presence of second person, detecting any electronic gadgets used for malpractice are taken care of by the system along with the necessary warning. along with visual analysis, audio analysis done and it’s compared against the answers associated with the exam.
 
