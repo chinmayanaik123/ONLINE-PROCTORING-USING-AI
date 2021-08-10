@@ -23,14 +23,8 @@ I'm Perusing Bachelors of Engineering in Electronics and Communication Engineeri
 
 download "shape_predictor_68_face_landmarks" file from google.
 
-
-https://user-images.githubusercontent.com/67550103/128872345-ebf6e165-99fc-4ee3-88fe-dba42e8225ac.mp4
-
-
-
-https://user-images.githubusercontent.com/67550103/128872386-30c5afb6-421e-4394-9570-8074757e89a9.mp4
+![9e7da1fcf65cad9ade8450560b1851c3e361df3f](https://user-images.githubusercontent.com/67550103/128872776-bcf383b5-a55c-4a67-8d7b-f08ab88ef476.gif)
+![591ca8441907ebfb5c18783d43b8e8a591df4d3d](https://user-images.githubusercontent.com/67550103/128872835-0a5a85d1-a136-441f-9b99-7b856902ebf4.gif)
 
 
-
-https://user-images.githubusercontent.com/67550103/128872554-a02440af-233d-4c4a-a9a7-d0e6278b9023.mp4
-
+![6c8d32c75531db00df0da72ba3d83061c2aa3f44](https://user-images.githubusercontent.com/67550103/128872962-a17aea9d-1db6-4292-b478-571ec14d0250.gif)
