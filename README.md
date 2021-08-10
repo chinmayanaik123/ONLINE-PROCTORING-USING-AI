@@ -12,7 +12,7 @@ An online proctoring system capable of detecting malicious activities or malprac
   
 ## Lessons Learned
 
-This is my first project in the field of AI. Ireffered many  youtube videos and i tried some  codes of similar existing projects.
+This is my first project in the field of AI. I reffered many  youtube videos and i tried some  codes of similar existing projects.
 
   
 # Hi, I'm Chinmaya naik ! 👋
