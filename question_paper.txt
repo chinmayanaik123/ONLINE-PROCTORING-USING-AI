@@ -1,0 +1,16 @@
+Purpose of Embedded Systems
+1. Data collection/ storage/ representation
+2. Data communication
+3. Data processing
+4. Monitoring
+5. Control
+6. Application specific user interface
+
+A digital camera is a typical
+example of an embedded system
+with data
+collection/storage/representation
+of data.   Fig: A
+wireless network router for
+data communication  A digital hearing aid is a typical  patient monitoring system  Air Conditioner System   A mobile phone is an example for
+embedded system with an 
