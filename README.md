@@ -21,4 +21,4 @@ This is my first project in the field of AI. I reffered many  youtube videos and
 ## 🚀 About Me
 I'm Perusing Bachelors of Engineering in Electronics and Communication Engineering in MITE Mangalore.
 
-  
+download "shape_predictor_68_face_landmarks" file from google.
